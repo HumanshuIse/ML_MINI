@@ -1,0 +1,2 @@
+"""MarketPulse India analysis package."""
+
